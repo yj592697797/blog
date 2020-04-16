@@ -46,3 +46,8 @@ del .\fonts\ -Recurse -Force
 ```
 
 2. 在`属性`-> `字体` 中选择字体`DejaVu Sans Mono for Powerline`
+
+##### 效果图
+
+![](http://q81vonyew.bkt.clouddn.com/20200416105401.png)
+
