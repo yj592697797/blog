@@ -28,3 +28,11 @@ actual.Should().StartWith("AB").And.EndWith("HI").And.Contain("EF").And.HaveLeng
 ## Autofac.Extras.Moq
 
 结合`Autofac`与`Moq`使用，在单元测试中将mock对象注入到容器中
+
+## HealthChecks && HealthChecks.UI
+
+健康检查
+
+## Dapper
+
+高性能ORM
