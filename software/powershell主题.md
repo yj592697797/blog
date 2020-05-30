@@ -4,7 +4,7 @@
 
 ##### 安装步骤
 
-1. 在`powershell`中运行
+1. 已 **管理员** 启动`powershell`后运行
 
 ```powershell
 scoop install posh-git
