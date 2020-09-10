@@ -36,3 +36,14 @@ actual.Should().StartWith("AB").And.EndWith("HI").And.Contain("EF").And.HaveLeng
 ## Dapper
 
 高性能ORM
+
+## fast-member
+
+反射库：https://github.com/mgravell/fast-member
+
+## Sigil
+
+A fail-fast, validating helper for [DynamicMethod](http://msdn.microsoft.com/en-us/library/system.reflection.emit.dynamicmethod.aspx) and [ILGenerator](http://msdn.microsoft.com/en-us/library/system.reflection.emit.ilgenerator.aspx). 
+
+https://github.com/kevin-montrose/Sigil
+

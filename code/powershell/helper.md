@@ -1,0 +1,8 @@
+##### Guid
+
+```powershell
+[guid]::NewGuid()
+```
+
+
+

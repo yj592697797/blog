@@ -20,3 +20,7 @@
 #### Performence
 
 1. Pro .NET Benchmarking
+
+#### JS
+
+*Secrets* *of* *the* *JavaScript* *Ninja*, 2nd Edition
